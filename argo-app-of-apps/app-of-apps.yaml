@@ -18,7 +18,7 @@ spec:
 
     path: argocd/argocd-apps
 
-    repoURL: 'https://gitlab.com/ayush-sharma/example-assets.git'
+    repoURL: 'https://github.com/GeorgeAbramov/app-of-apps'
 
     targetRevision: HEAD
 
